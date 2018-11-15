@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Tribuna ES">
+    <display-name lang="pt">TV Tribuna ES</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvhorizonte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Vitória">
+    <display-name lang="pt">TV Vitória</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rbs.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
